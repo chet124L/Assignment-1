@@ -8,7 +8,6 @@
 *
 ********************************************************************************/ 
 
-
 serverVerbs = ["GET", "GET", "GET", "POST", "GET", "POST"] //Array of HTTP verbs for server requests 
 serverPaths = ["/", "/about", "/contact", "/login", "/panel", "/logout"] //Array of server paths
 serverResponses = ["Welcome to WEB700 Assignment 1", 
